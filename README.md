@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ambika Prasad Dahal.
-- 👀 I’m interested in Modeling and Simulation of spacecrafts in Guidance, Navigation and Controls domain.
+- 👀 I’m interested in Modeling and Simulation of Aerial Robots and Spacecrafts in Guidance, Navigation and Controls domain.
 - 🌱 I’m currently a Ph.D. candidate at University of Louisiana at Lafayette specializing in Dynamics and Controls/ Systems Engineering. 
 - 📫 How to reach me: ambika.dahal1@louisiana.edu or www.linkedin.com/in/ambikapdahal
 - The contents in these repositories are my own. Credits are given to sources whenever applicable.
